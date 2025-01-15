@@ -1,5 +1,5 @@
 <div id="header" algin="center">
-  <img scr="https://i.gifer.com/2GU.gif" widrh="200">
+  <img src="https://i.gifer.com/2GU.gif" widrh="200">
 </div>
 
 
