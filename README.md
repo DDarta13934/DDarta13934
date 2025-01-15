@@ -1,3 +1,5 @@
+Hello, my young Moldovan, if you have come to see something interesting, then come back tomorrow.
+
 <div id="header" algin="center">
   <img src="https://i.gifer.com/2GU.gif" widrh="200">
 </div>
